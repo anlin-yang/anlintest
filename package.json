@@ -1,0 +1,14 @@
+{
+  "name": "my.portal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mtf.devtools": "git+ssh://git@github.com:anlin-yang/my.devtools.git#master"
+  }
+}
